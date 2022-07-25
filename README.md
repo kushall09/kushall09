@@ -1,5 +1,6 @@
- Hi there 👋
-<p style="background-image: url('https://giffiles.alphacoders.com/784/78401.gif');">
+ Hi there I am Kush All . A CS student from Nepal !👋
+ 
+<img src="https://c.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif">
 
 - 🔭 I’m currently working on <a href="https://linux.org/">Linux</a>
 
@@ -16,4 +17,4 @@
 - <b>😄 Pronouns: Curious Kid / Anonymous Noble</b>
 
 - <b><i> ⚡ Fun fact: I love doing weired stuffs :)</b></i>
-</p>
+
