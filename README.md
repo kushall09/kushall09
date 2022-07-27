@@ -1,6 +1,8 @@
- Hi there I am Kush All . A CS student from Nepal !👋
+ Hi there I am Kush All . A CS student from <b>Nepal</b> !👋
  
-<img src="https://c.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif">
+<img src="https://c.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif">   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/00ed5819071101.562d48fd36e19.gif">
+
+
 
 - 🔭 I’m currently working on <a href="https://linux.org/">Linux</a>
 
@@ -17,4 +19,7 @@
 - <b>😄 Pronouns: Curious Kid / Anonymous Noble</b>
 
 - <b><i> ⚡ Fun fact: I love doing weired stuffs :)</b></i>
+<h5>Hail Nepal !!</h5>
+
+
 
