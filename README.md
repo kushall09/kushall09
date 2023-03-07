@@ -19,7 +19,7 @@
 
 - <b>😄 Pronouns: Anonymous Noble</b>
 
-- <b><i> ⚡ Fun fact: I love doing weired stuffs :)</b></i>
+- <b><i> ⚡ Fun fact: I love doing weird stuffs :)</b></i>
 <h5>Hail Nepal !!</h5>
 
 
