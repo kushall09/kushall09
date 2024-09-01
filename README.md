@@ -7,9 +7,7 @@
 
 - 🔭 I’m currently working on <a href="https://linux.org/">Linux</a>
 
-- 🌱 I’m currently learning <a href="https://www.rust-lang.org/">Rust-Programming</a>
-
-- 👯 I’m looking to collaborate on <a href="https://www.gnu.org/software/bash/">Bash Scripting</a>
+- 🌱 I’m currently learning <a href="https://devops.com/">DevOps</a>
 
 - 🤔 I’m looking for help with <a href="https://www.python.org/">Python</a> And <a href="https://www.javascript.com/">JavaScript</a>
 
